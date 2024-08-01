@@ -1,0 +1,114 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+h1 {
+  padding-top: 10px;
+  color: #69c596;
+  text-align: center;
+  font-size: 40px;
+  padding: 5px;
+  margin-top: 5px;
+}
+.main {
+  padding: 50px;
+  margin-bottom: 50px;
+  
+}
+
+/* box1 */
+.box1 {
+  height: 180px;
+  width: 750px;
+  border-radius: 50%;
+  padding: 30px;
+  margin-left: -9px;
+  display: inline-block;
+  position: static;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+.heading1 {
+  color: rgb(229, 139, 82);
+}
+#one {
+  background-color: #ff6e4a;
+}
+#two {
+  background-color: #fc9f88;
+}
+#three {
+  background-color: #ffc564;
+}
+#four {
+  background-color: #e2bbe2;
+}
+#five {
+  background-color: #e6068a;
+}
+
+/* box2 */
+.box2 {
+  height: 180px;
+  width: 750px;
+  border-radius: 50%;
+  padding: 30px;
+  margin-left: -9px;
+  display: inline-block;
+  position: static;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+.heading2 {
+  color: indianred;
+}
+#seven {
+  background-color: #40e0d0;
+}
+#eight {
+  background-color: #a3bb5e;
+}
+#nine {
+  background-color: #fffacd;
+}
+#ten {
+  background-color: #ffd9b8;
+}
+#eleven {
+  background-color: #ffb6c0;
+}
+
+/* box3 */
+.box3 {
+  height: 180px;
+  width: 750px;
+  border-radius: 50%;
+  padding: 30px;
+  margin-left: -9px;
+  display: inline-block;
+  position: static;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+.heading3 {
+  color: rgb(89, 89, 184);
+}
+#thirteen {
+  background-color: #578b72;
+}
+#fourteen {
+  background-color: #62969c;
+}
+#fifteen {
+  background-color: #8da5c8;
+}
+#sixteen {
+  background-color: #adaae1;
+}
+#seventeen {
+  background-color: #f1c8ff;
+}
